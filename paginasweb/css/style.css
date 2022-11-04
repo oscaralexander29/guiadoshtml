@@ -1,0 +1,10 @@
+.imagen{
+    width: 30%;
+}
+tr>th{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(7,0,148,1) 24%, rgba(0,172,255,1) 100%);
+}
+footer>h3{
+    background-color: aquamarine;
+}
